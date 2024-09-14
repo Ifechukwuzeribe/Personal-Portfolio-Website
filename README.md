@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my journey, skills, projects, and experiences as a front-end developer and software engineering enthusiast. It is designed to be fully responsive, modern, and easy to navigate.
 
-Table of Contents
+## Table of Contents
 
 Overview
 
@@ -14,11 +14,11 @@ Sections
 
 Contact
 
-Overview
+## Overview
 
 This portfolio website is a reflection of my passion for frontend development and software engineering. It highlights my skills, projects, and professional journey. The design is clean, responsive, and includes various animations to enhance user experience.
 
-Technologies Used
+## Technologies Used
 
 HTML5: Structure of the website
 
@@ -32,7 +32,7 @@ Google Fonts: Custom fonts for typography
 
 GitHub Pages: Hosting the website
 
-Features
+## Features
 
 Responsive Design: Adjusts to various screen sizes (desktops, tablets, and mobile devices)
 
@@ -44,7 +44,7 @@ Project Showcase: A detailed view of my notable projects, with descriptions and 
 
 Contact Form: Allows visitors to send messages directly from the site
 
-Sections
+## Sections
 
 Home: A welcoming hero section with a brief introduction about me.
 
@@ -60,7 +60,12 @@ Interests: A brief overview of my hobbies and interests outside of coding.
 
 Contact: A form for visitors to reach out to me.
 
-Contact
+## Live Demo
+The project is deployed and live on Netlify. You can view it here:
+
+Project Live on Netlify https://famous-rolypoly-45f756.netlify.app/
+
+## Contact
 
 Feel free to reach out if you have any questions or feedback. You can contact me via email:
 
